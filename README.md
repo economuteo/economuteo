@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Economu Teo-Antonio
-- 👀 I’m interested in Web Development and Software Engineering
+- 👀 I’m interested in Web Development, Software Engineering and Music
 - 🌱 I’m currently learning Design Patterns
 
 <!---
