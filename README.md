@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Economu Teo-Antonio
 - 👀 I’m interested in Web Development, Software Engineering and Music
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning MERN  
 
 <!---
 economuteo/economuteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
