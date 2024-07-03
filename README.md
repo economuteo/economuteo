@@ -1,11 +1,11 @@
 Hi 👋 My name is Economu Teo-Antonio
 ===============================
 
-I'm an Aspiring Full-Stack Developer based in Bucharest
+I'm an Full-Stack Developer based in Bucharest
 ---------------------------------------------
 
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/teoantonioeconomu/), or email: teoantonioeconomu@gmail.com
-* 🚀  I'm currently working on MERN Applications
+* 🚀  I'm currently working on Wordpress applications
 
 ### Skills
 
