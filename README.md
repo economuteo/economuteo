@@ -1,7 +1,7 @@
 Hi 👋 My name is Economu Teo-Antonio
 ===============================
 
-I'm a Full-Stack Developer based in Bucharest
+I'm a Full-Stack Developer based in Bucharest!
 ---------------------------------------------
 
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/teoantonioeconomu/), or email: teoantonioeconomu@gmail.com
