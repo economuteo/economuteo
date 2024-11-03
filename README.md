@@ -58,9 +58,9 @@ I'm a Full-Stack Developer based in Bucharest!
    <a href="https://github.com/economuteo/PoliConnect"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=economuteo&repo=PoliConnect&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 
-  <a href="https://github.com/economuteo/Jobify-Job_Tracking_Platform-MERN"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=economuteo&repo=Jobify-Job_Tracking_Platform-MERN&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/economuteo/Job_Tracking_Platform-MERN"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=economuteo&repo=Job_Tracking_Platform-MERN&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
   
-  <a href="https://github.com/economuteo/Proshop-eCommerce_Platform-MERN"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=economuteo&repo=Proshop-eCommerce_Platform-MERN&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/economuteo/eCommerce_Platform-MERN"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=economuteo&repo=eCommerce_Platform-MERN&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
   <a href="https://github.com/economuteo/Vending-Machine-App-Javascript-MVC"><img width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=economuteo&repo=Vending-Machine-App-Javascript-MVC&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
